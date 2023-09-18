@@ -1320,9 +1320,9 @@ line-height: normal;
 
 
 
-    @media  screen and (max-width:430px) {
+    @media  screen and (max-width:500px) {
         .heaader {
-            width: 800px;
+            width: 1200px;
             height: 700px;
             flex-shrink: 0;
         }
@@ -1331,7 +1331,7 @@ line-height: normal;
 
 
         .menu__btn {
-            margin-left: -620px;
+            margin-left: -660px;
         }
 
 
